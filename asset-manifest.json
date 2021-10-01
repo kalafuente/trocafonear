@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/handbook/static/css/main.02e65d87.chunk.css",
-    "main.js": "/handbook/static/js/main.1e8dca7e.chunk.js",
-    "main.js.map": "/handbook/static/js/main.1e8dca7e.chunk.js.map",
-    "runtime-main.js": "/handbook/static/js/runtime-main.2fc9e12b.js",
-    "runtime-main.js.map": "/handbook/static/js/runtime-main.2fc9e12b.js.map",
-    "static/js/2.a3675c05.chunk.js": "/handbook/static/js/2.a3675c05.chunk.js",
-    "static/js/2.a3675c05.chunk.js.map": "/handbook/static/js/2.a3675c05.chunk.js.map",
-    "index.html": "/handbook/index.html",
-    "static/css/main.02e65d87.chunk.css.map": "/handbook/static/css/main.02e65d87.chunk.css.map",
-    "static/js/2.a3675c05.chunk.js.LICENSE.txt": "/handbook/static/js/2.a3675c05.chunk.js.LICENSE.txt"
+    "main.css": "/trocafonear/static/css/main.02e65d87.chunk.css",
+    "main.js": "/trocafonear/static/js/main.b7d2e6a1.chunk.js",
+    "main.js.map": "/trocafonear/static/js/main.b7d2e6a1.chunk.js.map",
+    "runtime-main.js": "/trocafonear/static/js/runtime-main.5e061e8d.js",
+    "runtime-main.js.map": "/trocafonear/static/js/runtime-main.5e061e8d.js.map",
+    "static/js/2.35f681ab.chunk.js": "/trocafonear/static/js/2.35f681ab.chunk.js",
+    "static/js/2.35f681ab.chunk.js.map": "/trocafonear/static/js/2.35f681ab.chunk.js.map",
+    "index.html": "/trocafonear/index.html",
+    "static/css/main.02e65d87.chunk.css.map": "/trocafonear/static/css/main.02e65d87.chunk.css.map",
+    "static/js/2.35f681ab.chunk.js.LICENSE.txt": "/trocafonear/static/js/2.35f681ab.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.2fc9e12b.js",
-    "static/js/2.a3675c05.chunk.js",
+    "static/js/runtime-main.5e061e8d.js",
+    "static/js/2.35f681ab.chunk.js",
     "static/css/main.02e65d87.chunk.css",
-    "static/js/main.1e8dca7e.chunk.js"
+    "static/js/main.b7d2e6a1.chunk.js"
   ]
 }
